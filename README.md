@@ -19,4 +19,12 @@ gcc Combinations_Calculator.c -o comb
 ./comb
 ```
 
+---
+
+## 📃License
+
+  See included [LICENSE](./LICENSE) file for more details.
+
+---
+
 ## Author-Silven Mohan
