@@ -1,1 +1,3 @@
+Test Run Result:
 
+Enter values of n and r:5C1= 5
