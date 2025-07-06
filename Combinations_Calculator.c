@@ -23,6 +23,5 @@ int main()
 	}
 	ncr=nf/(nrf*rf);
 	printf("%dC%d= %d", n, r, ncr);
-
 	return 0;
 }
