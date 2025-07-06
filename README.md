@@ -1,5 +1,9 @@
 # Combinations_Calculator
 
+![CI](https://github.com/silven-mohan/Combinations_Calculator/actions/workflows/.github/workflows/main.yml/badge.svg)
+
+------
+
 This is a simple command-line tool to compute combinations (nCr) using iterative factorials in C.
 
 ## 💡 Features
