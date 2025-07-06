@@ -2,13 +2,13 @@
 
 #include<stdlib.h>
 
-main()
+int main()
 
 {
 	int i, n, r, ncr, nf=1, rf=1, nrf=1;
 	printf("Enter values of n and r:");
 	scanf("%d%d", &n, &r);
-	system("cls");
+	// system("cls");
 	for(i=n;i>=1;i--)
 	{
 		nf=nf*i;
@@ -23,4 +23,6 @@ main()
 	}
 	ncr=nf/(nrf*rf);
 	printf("%dC%d= %d", n, r, ncr);
+
+	return 0;
 }
